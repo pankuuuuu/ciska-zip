@@ -1,1 +1,5 @@
-cisca file for conribuing
+for(var i=0;i<10;i++){
+	console.log(i);
+}
+
+console.log("For loop added");
